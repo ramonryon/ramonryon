@@ -2,7 +2,7 @@
 
 - 🎓 Estou concluindo o curso de Ciências da Computação Pela Universidade Estadual da Paraíba (UEPB)
 - 🖥️ Já possuo experiência com Desenvolvimento Front-End, Back-End & UI Design
-- 💼 Atualmente sou coordenador de T.I na Maternidade Dr. Peregrino Filho & Freelancer
+- 💼 Atualmente sou coordenador de T.I na Maternidade Dr. Peregrino Filho & Web Designer Freelancer
 
 <div align="center">
   <a href="https://github.com/ramonryon">
