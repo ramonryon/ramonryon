@@ -1,8 +1,8 @@
 ## Olá, Me chamo Ramon Ryon, Sou de Patos-PB!
 
-- 🎓 Estou concluindo o curso de Ciências da Computação Pela Universidade Estadual da Paraíba (UEPB)
+- 🎓 Formado em Ciências da Computação Pela Universidade Estadual da Paraíba (UEPB)
 - 🖥️ Já possuo experiência com Desenvolvimento Front-End, Back-End & UI Design
-- 💼 Atualmente sou coordenador de T.I na Maternidade Dr. Peregrino Filho & Web Designer Freelancer
+- 💼 Atualmente sou Desenvolvedor Front-End na Compass.UOL
 
 <div align="center">
   <a href="https://github.com/ramonryon">
