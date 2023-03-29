@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ramon Ryon</h1>
 
 ###### 🚀 Objective:
-- Always looking to evolve as a Front-End Developer, Back-End Developer or UI Designer.
+- Always looking to evolve as a Front-End Developer, Back-End Developer and UI Designer.
 
 ###### 🎓 Education:
 
