@@ -15,7 +15,7 @@
 
 ###### 👨‍💻 Skills:
 
-- Proficient in Front-End Development technologies such as HTML, CSS, JavaScript.
+- Proficient in Front-End Development technologies such as HTML, CSS, JavaScript, ReactJS.
 - Experienced with Back-End Development technologies such as Node.js.
 - Skilled in UI Design using Adobe Photoshop and Figma.
 
