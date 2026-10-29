@@ -17,7 +17,7 @@ One of the projects that shaped me came early, at university: as a developer in 
 
 - **Full-stack product engineering:** React and TypeScript front-ends, Python and Node.js back-ends, REST APIs, and Docker deployments. As founder of OnlineTec Solutions, I've delivered 30+ websites and 5 SaaS systems end to end
 - **AI-powered features:** OpenAI API, RAG pipelines with LangChain, streaming chat interfaces (SSE) and structured outputs validated with Pydantic
-- **Quality and performance:** raised test coverage from 42% to 87% (Jest, React Testing Library), cut LCP from 4.2s to 2.1s, and built 80 Design System components that reduced duplicated code by 35%
+- **Quality and performance:** raised test coverage from 87% to 92% (Jest, React Testing Library), cut LCP from 4.2s to 2.1s, and built 80 Design System components that reduced duplicated code by 35%
 - **Automation:** dynamic AMPscript templates on Salesforce Marketing Cloud that let a 7-person CRM team work without depending on a developer
 - **Agentic coding:** Cursor, GitHub Copilot and Claude Code to ship faster, while I own the architecture and review every change
 
